@@ -10,3 +10,4 @@ To get started with Git, you can follow these steps:
 3. Clone the repository to your local machine.
 4. Make changes to the files in your local repository.
 5. Commit your changes with a meaningful message.
+6. Push your changes back to the remote repository on GitHub.
